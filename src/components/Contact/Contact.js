@@ -77,15 +77,15 @@ const Contact = () => {
                 <Box sx={{ mt: 2 }}>
                   <Button
                     startIcon={<EmailIcon />}
-                    href="mailto:your.email@example.com"
+                    href="mailto:your.nishantkumarsingh355@gmail.com"
                     sx={{ mb: 1 }}
                     fullWidth
                   >
-                    your.email@example.com
+                  nishantkumarsingh355@gmail.com
                   </Button>
                   <Button
                     startIcon={<LinkedInIcon />}
-                    href="https://linkedin.com/in/your-profile"
+                    href="https://www.linkedin.com/in/nishant-kumar-singh-aaa000b7/"
                     target="_blank"
                     sx={{ mb: 1 }}
                     fullWidth
@@ -94,11 +94,20 @@ const Contact = () => {
                   </Button>
                   <Button
                     startIcon={<GitHubIcon />}
-                    href="https://github.com/your-username"
+                    href="https://github.com/NISHANTLAB"
                     target="_blank"
+                    sx={{ mb: 1 }}
                     fullWidth
                   >
                     GitHub Profile
+                  </Button>
+                  <Button
+                    startIcon={<img src="https://static.naukimg.com/s/4/100/i/naukri_Logo.png" alt="Naukri" style={{width: '24px', height: '24px'}} />}
+                    href="https://www.naukri.com/mnjuser/profile"
+                    target="_blank"
+                    fullWidth
+                  >
+                    Naukri Profile
                   </Button>
                 </Box>
               </Paper>

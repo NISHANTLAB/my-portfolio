@@ -7,9 +7,10 @@ const Hero = () => {
   const skills = [
     { name: 'Node.js', level: 'Advanced' },
     { name: 'React.js', level: 'Advanced' },
-    { name: 'MongoDB', level: 'Advanced' },
+    { name: 'MySQL', level: 'Advanced' },
+    { name: 'MongoDB', level: 'Intermediate' },
     { name: 'Express.js', level: 'Advanced' },
-    { name: 'TypeScript', level: 'Advanced' },
+    { name: 'JavaScript', level: 'Advanced' },
     { name: 'AWS', level: 'Intermediate' }
   ];
 

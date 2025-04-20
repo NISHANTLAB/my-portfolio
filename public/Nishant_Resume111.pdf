@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1100">
+  <style>
+    text { font-family: Arial, sans-serif; }
+    .heading { font-size: 24px; font-weight: bold; }
+    .subheading { font-size: 18px; font-weight: bold; }
+    .normal-text { font-size: 14px; }
+    .section { margin-top: 20px; }
+  </style>
+  
+  <!-- Header -->
+  <text x="40" y="60" class="heading">Nishant Kumar Singh</text>
+  <text x="40" y="90" class="normal-text">Senior MERN Stack Developer at Cognisun Infotech</text>
+  <text x="40" y="110" class="normal-text">DOB: 21/07/1993</text>
+
+  <!-- About -->
+  <text x="40" y="150" class="subheading">About</text>
+  <text x="40" y="180" class="normal-text">Experienced Full Stack Developer with approximately 3 years of expertise in developing</text>
+  <text x="40" y="200" class="normal-text">server-side and client-side applications using Node.js, React.js, and MySQL.</text>
+
+  <!-- Experience -->
+  <text x="40" y="250" class="subheading">Professional Experience</text>
+  
+  <text x="40" y="280" class="normal-text" font-weight="bold">Cognisun Infotech Pvt Ltd, Ahmedabad</text>
+  <text x="40" y="300" class="normal-text">Software Developer (MAR 2022 - Present)</text>
+  <text x="60" y="320" class="normal-text">• Directed Node.js backend development, 35% performance improvement</text>
+  <text x="60" y="340" class="normal-text">• Proficiently wrote complex SQL queries and stored procedures</text>
+  <text x="60" y="360" class="normal-text">• Managed auto-notifications using Node.js cron jobs</text>
+
+  <text x="40" y="400" class="normal-text" font-weight="bold">Evolution - Web (Ireland)</text>
+  <text x="40" y="420" class="normal-text">Project: Dynamic ERP Solution (March 2022- Present)</text>
+  <text x="60" y="440" class="normal-text">• Real-Time Premium Calculation implementation</text>
+  <text x="60" y="460" class="normal-text">• Automated Document Handling system development</text>
+
+  <!-- Skills -->
+  <text x="40" y="520" class="subheading">Technical Skills</text>
+  <text x="40" y="550" class="normal-text">• Node.Js (90%) • Express (85%) • MySQL (88%) • MongoDB (85%)</text>
+  <text x="40" y="570" class="normal-text">• Javascript (92%) • HTML (90%) • CSS (85%) • Socket.io (80%)</text>
+  <text x="40" y="590" class="normal-text">• Stored Procedures (85%) • Serial Port (70%)</text>
+
+  <!-- Education -->
+  <text x="40" y="640" class="subheading">Education</text>
+  <text x="40" y="670" class="normal-text">B.Tech in Computer Science</text>
+  <text x="40" y="690" class="normal-text">JNTU College of Engineering, Kakinada (2015) - 74.37%</text>
+  
+  <text x="40" y="720" class="normal-text">12th - Science</text>
+  <text x="40" y="740" class="normal-text">Bihar School Examination Board, Patna (2011) - 63%</text>
+  
+  <text x="40" y="770" class="normal-text">10th - General</text>
+  <text x="40" y="790" class="normal-text">Bihar School Examination Board, Patna (2008) - 71%</text>
+</svg>

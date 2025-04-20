@@ -2,7 +2,8 @@ import React from 'react';
 import { Container, Typography, Grid, Paper, Box, Chip, LinearProgress, Avatar } from '@mui/material';
 import { motion } from 'framer-motion';
 // import profileImage from '../../assets/profile.svg';
-import profileImage from '../../assets/profile.jpeg';
+// import profileImage from '../../assets/profile.jpeg';
+import profileImage from '../../assets/new.jpg';
 
 
 const About = () => {
